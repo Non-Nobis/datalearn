@@ -7,4 +7,4 @@ For now decided to use GitHub Desktop, but some basic commands in CLI was tested
 
 ## Analytical Solution Architecture
 
-![Analytical Solution Architecture diagram](Analytical Solution Architecture.drawio.svg)
+![Analytical Solution Architecture diagram]("Analytical Solution Architecture.drawio.svg")
